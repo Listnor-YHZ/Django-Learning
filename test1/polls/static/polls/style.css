@@ -1,0 +1,28 @@
+li a{
+    color:white;
+}
+
+li {
+    color:red;
+}
+
+p {
+    color:deeppink;
+}
+
+h1 {
+    color:deepskyblue;
+}
+
+label {
+    color:yellow;
+}
+
+body {
+    background: url("image/sv8.gif");
+    background-size: 100% 100%;
+    /*-moz-background-size: 100% 100%;*/
+    /*-o-background-size: 100% 100%;*/
+    /*background-size: 100%;*/
+    /*background-size: contain;*/
+}
